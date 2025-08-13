@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: purple;
+}
+
+header {
+  background-color: chocolate;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  background-color: white;
+  margin: 20px auto;
+  padding: 20px;            
+  border: 2px solid #ddd;   
+  width: 80%;
+  box-sizing: border-box;   
+  border-radius: 8px;
+}
+
+.highlight {
+  border-color: orchid;
+  background-color: coral;
+}
+
+footer {
+  background-color: goldenrod;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
